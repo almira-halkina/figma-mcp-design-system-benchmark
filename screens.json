@@ -1,0 +1,11 @@
+{
+  "_how_to": "Link to each Examples frame in the duplicated SDS file. 'reference' is Figma's closest React implementation in sds/src/examples (held out from the agent, used as the answer key). Empty figma_url = skipped.",
+  "screens": [
+    {"name": "HomePage",    "reference": "WelcomeHero", "figma_url": "https://www.figma.com/design/2tQpdQRR7fjC4w8yNElBV3/Simple-Design-System--Community-?node-id=175-4613"},
+    {"name": "About",       "reference": "",            "figma_url": "https://www.figma.com/design/2tQpdQRR7fjC4w8yNElBV3/Simple-Design-System--Community-?node-id=175-4995"},
+    {"name": "ContactUs",   "reference": "",            "figma_url": "https://www.figma.com/design/2tQpdQRR7fjC4w8yNElBV3/Simple-Design-System--Community-?node-id=175-5320"},
+    {"name": "Pricing",     "reference": "PricingGrid", "figma_url": "https://www.figma.com/design/2tQpdQRR7fjC4w8yNElBV3/Simple-Design-System--Community-?node-id=175-5828"},
+    {"name": "Waitlist",    "reference": "",            "figma_url": "https://www.figma.com/design/2tQpdQRR7fjC4w8yNElBV3/Simple-Design-System--Community-?node-id=175-6058"},
+    {"name": "LandingPage", "reference": "",            "figma_url": "https://www.figma.com/design/2tQpdQRR7fjC4w8yNElBV3/Simple-Design-System--Community-?node-id=175-6523"}
+  ]
+}
